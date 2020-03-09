@@ -1,0 +1,140 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="92c1010b-507b-4721-80b9-4cecb6c0d636" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1Yl8ReRYgr2vDFJ3JxbcYKvkCP0" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="restartRequiresConfirmation" value="false" />
+    <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\Montasser\IdeaProjects" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Montasser\IdeaProjects" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true">
+      <option name="MAIN_CLASS_NAME" value="com.company.Main" />
+      <module name="LCS Visualizer" />
+      <option name="WORKING_DIRECTORY" value="file://$PROJECT_DIR$" />
+      <RunnerSettings RunnerId="Run" />
+      <ConfigurationWrapper RunnerId="Run" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Main" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="92c1010b-507b-4721-80b9-4cecb6c0d636" name="Default Changelist" comment="" />
+      <created>1583505813665</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1583505813665</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="127" y="0" key="#Notifications" timestamp="1583506841019">
+      <screen x="0" y="0" width="1067" height="600" />
+    </state>
+    <state x="127" y="0" key="#Notifications/0.0.1067.600@0.0.1067.600" timestamp="1583506841019" />
+    <state x="340" y="2" key="#com.intellij.ide.util.MemberChooser" timestamp="1583532655857">
+      <screen x="0" y="0" width="1067" height="600" />
+    </state>
+    <state x="340" y="2" key="#com.intellij.ide.util.MemberChooser/0.0.1067.600@0.0.1067.600" timestamp="1583532655857" />
+    <state x="161" y="0" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog" timestamp="1583691097400">
+      <screen x="0" y="0" width="1067" height="600" />
+    </state>
+    <state x="161" y="0" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog/0.0.1067.600@0.0.1067.600" timestamp="1583691097400" />
+    <state x="341" y="194" key="Github.ShareDialog" timestamp="1583756239441">
+      <screen x="0" y="0" width="1067" height="600" />
+    </state>
+    <state x="341" y="194" key="Github.ShareDialog/0.0.1067.600@0.0.1067.600" timestamp="1583756239441" />
+    <state width="1024" height="137" key="GridCell.Tab.0.bottom" timestamp="1583756666188">
+      <screen x="0" y="0" width="1067" height="600" />
+    </state>
+    <state width="1024" height="137" key="GridCell.Tab.0.bottom/0.0.1067.600@0.0.1067.600" timestamp="1583756666188" />
+    <state width="1024" height="137" key="GridCell.Tab.0.center" timestamp="1583756666188">
+      <screen x="0" y="0" width="1067" height="600" />
+    </state>
+    <state width="1024" height="137" key="GridCell.Tab.0.center/0.0.1067.600@0.0.1067.600" timestamp="1583756666188" />
+    <state width="1024" height="137" key="GridCell.Tab.0.left" timestamp="1583756666188">
+      <screen x="0" y="0" width="1067" height="600" />
+    </state>
+    <state width="1024" height="137" key="GridCell.Tab.0.left/0.0.1067.600@0.0.1067.600" timestamp="1583756666188" />
+    <state width="1024" height="137" key="GridCell.Tab.0.right" timestamp="1583756666188">
+      <screen x="0" y="0" width="1067" height="600" />
+    </state>
+    <state width="1024" height="137" key="GridCell.Tab.0.right/0.0.1067.600@0.0.1067.600" timestamp="1583756666188" />
+    <state width="1024" height="172" key="GridCell.Tab.1.bottom" timestamp="1583755097920">
+      <screen x="0" y="0" width="1067" height="600" />
+    </state>
+    <state width="1024" height="172" key="GridCell.Tab.1.bottom/0.0.1067.600@0.0.1067.600" timestamp="1583755097920" />
+    <state width="1024" height="172" key="GridCell.Tab.1.center" timestamp="1583755097920">
+      <screen x="0" y="0" width="1067" height="600" />
+    </state>
+    <state width="1024" height="172" key="GridCell.Tab.1.center/0.0.1067.600@0.0.1067.600" timestamp="1583755097920" />
+    <state width="1024" height="172" key="GridCell.Tab.1.left" timestamp="1583755097920">
+      <screen x="0" y="0" width="1067" height="600" />
+    </state>
+    <state width="1024" height="172" key="GridCell.Tab.1.left/0.0.1067.600@0.0.1067.600" timestamp="1583755097920" />
+    <state width="1024" height="172" key="GridCell.Tab.1.right" timestamp="1583755097920">
+      <screen x="0" y="0" width="1067" height="600" />
+    </state>
+    <state width="1024" height="172" key="GridCell.Tab.1.right/0.0.1067.600@0.0.1067.600" timestamp="1583755097920" />
+    <state x="31" y="0" key="SettingsEditor" timestamp="1583755388797">
+      <screen x="0" y="0" width="1067" height="600" />
+    </state>
+    <state x="31" y="0" key="SettingsEditor/0.0.1067.600@0.0.1067.600" timestamp="1583755388797" />
+    <state x="127" y="34" key="Vcs.Push.Dialog.v2" timestamp="1583756747904">
+      <screen x="0" y="0" width="1067" height="600" />
+    </state>
+    <state x="127" y="34" key="Vcs.Push.Dialog.v2/0.0.1067.600@0.0.1067.600" timestamp="1583756747904" />
+    <state x="237" y="125" key="com.intellij.ide.util.TipDialog" timestamp="1583756698763">
+      <screen x="0" y="0" width="1067" height="600" />
+    </state>
+    <state x="237" y="125" key="com.intellij.ide.util.TipDialog/0.0.1067.600@0.0.1067.600" timestamp="1583756698763" />
+    <state width="600" height="424" key="javadoc.popup" timestamp="1583737834203">
+      <screen x="0" y="0" width="1067" height="600" />
+    </state>
+    <state width="600" height="424" key="javadoc.popup/0.0.1067.600@0.0.1067.600" timestamp="1583737834203" />
+  </component>
+</project>
